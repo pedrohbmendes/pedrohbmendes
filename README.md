@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pedrohbmendes
+- 👀 I’m interested in gain more experience in coding
+- 🌱 I’m currently studying System Development and Salesforce Ecosystem.
+- 💞️ I’m looking to collaborate on technologic projects
+- 📫 How to reach me: pedrohbmendess@gmail.com
